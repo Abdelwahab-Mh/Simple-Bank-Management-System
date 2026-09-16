@@ -1,0 +1,8 @@
+﻿  Project-1.cpp
+G:\برمجه\ابو_هدهود\C++ Lv2\Problems Part 1\Project-1\Project-1\Project-1.cpp(83,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Generating code
+  1 of 391 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project-1.vcxproj -> G:\برمجه\ابو_هدهود\C++ Lv2\Problems Part 1\Project-1\x64\Release\Project-1.exe

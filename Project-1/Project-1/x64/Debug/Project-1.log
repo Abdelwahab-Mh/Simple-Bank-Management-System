@@ -1,0 +1,5 @@
+﻿  Project-1.cpp
+E:\برمجه\ابو_هدهود\C++ Lv2\Problems Part 1\Project-1\Project-1\Project-1.cpp(83,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\برمجه\ابو_هدهود\C++ Lv2\Problems Part 1\Project-1\Project-1\Project-1.cpp(249,1): warning C4715: 'DeleteClient': not all control paths return a value
+E:\برمجه\ابو_هدهود\C++ Lv2\Problems Part 1\Project-1\Project-1\Project-1.cpp(319,1): warning C4715: 'UpdateClient': not all control paths return a value
+  Project-1.vcxproj -> E:\برمجه\ابو_هدهود\C++ Lv2\Problems Part 1\Project-1\x64\Debug\Project-1.exe
