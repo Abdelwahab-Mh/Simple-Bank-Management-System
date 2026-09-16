@@ -1,5 +1,5 @@
-# Simple Bank Management System
+# Console Client Management System
 
-Engineered a lightweight banking application managing essential financial operations: account setup, deposits, withdrawals, and balance queries.
+Developed a console-based application featuring a structured main menu to manage client records, including functionalities to show, add, delete, update, and find clients. 
 
-Utilized efficient data structures and modular functions to maintain dynamic account data in memory without external database overhead.
+Implemented core CRUD (Create, Read, Update, Delete) operations using modular functions to process and maintain data efficiently without external databases.
